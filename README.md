@@ -32,8 +32,8 @@ There are two possible outputs implemented, the syllable structure allows you, h
 
 ```
 aaron	a:.r O n
-abbadísin - a.p a.t i.s I n
-abbas - a.p a s
+abbadísin	a.p a.t i.s I n
+abbas	a.p a s
 ```
 
 
@@ -41,11 +41,11 @@ abbas - a.p a s
 ## Trouble shooting & inquiries
 
 This application is still in development. If you encounter any errors, feel free to open an issue inside the
-[issue tracker](https://github.com/grammatek/pedi/issues). You can also [contact us](mailto:info@grammatek.com) via email.
+[issue tracker](https://github.com/grammatek/syllables/issues). You can also [contact us](mailto:info@grammatek.com) via email.
 
 ## Contributing
 
-You can contribute to this project by forking it, creating a private branch and opening a new [pull request](https://github.com/grammatek/pedi/pulls).  
+You can contribute to this project by forking it, creating a private branch and opening a new [pull request](https://github.com/grammatek/syllables/pulls).  
 
 
 ## License
