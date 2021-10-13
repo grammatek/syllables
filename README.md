@@ -19,7 +19,7 @@ abbas	a p a s
 
 There are two possible outputs implemented, the syllable structure allows you, however, to easily adapt the output to your needs.
 
-**CMU-format**
+[**CMU-format**](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)
 
 ```
 ("aaron" nil (((a: ) 1) ((r O n ) 0)))
