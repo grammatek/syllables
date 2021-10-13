@@ -36,6 +36,21 @@ abbadísin	a.p a.t i.s I n
 abbas	a.p a s
 ```
 
+## Label TTS input
+
+To label phonetic transcriptions in a TTS pipeline, the module needs two lists: a list of words and a list of their transcripts, where the indices in both lists correspond to each other. That is, the transcript for the word at `word_list[n]` is found at `transcriptions_list[n]` .
+
+Example:
+
+```
+# Input:
+['hvernig', 'hefur', 'þú', 'það']
+['k_h v E r t n I G', 'h E: v Y r', 'T u:', 'T a: D']
+# Output, syllables only:
+['k_h v E r t.n I G', 'h E:.v Y r', 'T u:', 'T a: D']
+# Output, syllables and stress:
+['k_h v E1 r t.n I0 G', 'h E:1.v Y0 r', 'T u:1', 'T a:1 D']
+````
 
 
 ## Trouble shooting & inquiries
